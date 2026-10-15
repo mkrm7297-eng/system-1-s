@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة مخزون ومبيعات الملابس | Clothing Inventory & POS",
+  "description": "نظام محلي متكامل لإدارة مخزون ومبيعات ومشتريات الملابس، تحويلات الفروع، باركود Code 128، تقييم تكلفة FIFO، الجرد الأعمى، والرقابة على الرصيد السالب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
